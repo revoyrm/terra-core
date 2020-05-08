@@ -29,7 +29,7 @@
     "classnames": "^2.2.5",
     "prop-types": "^15.5.8",
     "terra-mixins": "^1.35.0",
-    "terra-section-header": "^2.35.0",
+    "terra-section-header": "2.34.0",
     "terra-toggle": "^3.31.0"
   },
   "scripts": {
