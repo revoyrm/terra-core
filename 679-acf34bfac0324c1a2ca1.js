@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[679],{2430:function(e,u,n){"use strict";Object.defineProperty(u,"__esModule",{value:!0}),u.default=void 0;var t,o=(t=n(0))&&t.__esModule?t:{default:t},l=n(139);u.default=function(){return o.default.createElement(l.Generic,{id:"single-user",alt:"single user",color:"four"})}}}]);
+//# sourceMappingURL=679-acf34bfac0324c1a2ca1.js.map
